@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://http://fc04.deviantart.net/fs10/f/2006/324/f/c/Chibi_Panda_by_rayquazaLv70.jpg) no-repeat; background-size: contain;}
-.fx {background: url(http://motionpicturebarbie.files.wordpress.com/2010/04/bibble.jpg) no-repeat; background-size: contain;}
-.cr {background: url(http://fc01.deviantart.net/fs71/f/2010/225/9/e/Chibi_Sailor_Moon_2_by_blackmoonrose13.jpg) no-repeat; background-size: contain;}
-.sf {background: url(http://fc01.deviantart.net/fs71/f/2010/225/9/e/Chibi_Sailor_Moon_2_by_blackmoonrose13.jpg) no-repeat; background-size: contain;}
-.op {background: url(http://http://fc04.deviantart.net/fs10/f/2006/324/f/c/Chibi_Panda_by_rayquazaLv70.jpg) no-repeat; background-size: contain;}
-.ns {background: url(http://motionpicturebarbie.files.wordpress.com/2010/04/bibble.jpg) no-repeat; background-size: contain;}
-.tb {background: url(http://th1257.photobucket.com/albums/ii501/HeatherTheHaunter/th_Chibi_turtle_by_blackcattlc.jpg) no-repeat; background-size: contain;}
-.fm {background: url(http://th1257.photobucket.com/albums/ii501/HeatherTheHaunter/th_Chibi_turtle_by_blackcattlc.jpg) no-repeat; background-size: contain;}
+.ie {background: url(http://instagram.com/p/UxdiyvEsQU/) no-repeat; background-size: contain;}
+.fx {background: url(http://instagram.com/p/Uu0IRiksQF/) no-repeat; background-size: contain;}
+.cr {background: url(http://instagram.com/p/Uh38TKksSG/) no-repeat; background-size: contain;}
+.sf {background: url(http://instagram.com/p/UVKBqgksc1/) no-repeat; background-size: contain;}
+.op {background: url(http://instagram.com/p/UPqvsxEsbT/) no-repeat; background-size: contain;}
+.ns {background: url(http://instagram.com/p/TxSV8LksZP/) no-repeat; background-size: contain;}
+.tb {background: url(http://instagram.com/p/TAFN5ZEsXJ/) no-repeat; background-size: contain;}
+.fm {background: url(http://instagram.com/p/S9mzM0EsX_/) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
