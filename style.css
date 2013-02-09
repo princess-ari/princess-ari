@@ -85,8 +85,8 @@ body {
 .card {
   -webkit-perspective: 300px;
   -moz-perspective: 300px;
-  width: 56px;
-  height: 88px;
+  width: 100px;
+  height: 100px;
   position: absolute;
   -moz-transition: all .3s ease;
   -webkit-transition: all .3s ease;
@@ -98,19 +98,19 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://images4.fanpop.com/image/photos/24300000/Baby-Perry-perry-the-platypus-24339893-307-234.png) no-repeat; background-size: contain;}
+.ie {background: url(http://http://fc04.deviantart.net/fs10/f/2006/324/f/c/Chibi_Panda_by_rayquazaLv70.jpg) no-repeat; background-size: contain;}
 .fx {background: url(http://motionpicturebarbie.files.wordpress.com/2010/04/bibble.jpg) no-repeat; background-size: contain;}
-.cr {background: url(http://thumbs1.ebaystatic.com/d/l225/m/mIiUz19ps21HE82KOS7Long.jpg) no-repeat; background-size: contain;}
-.sf {background: url(http://instagram.com/p/Ur8mjdvPe0/) no-repeat; background-size: contain;}
-.op {background: url(http://instagram.com/p/Ure0gevPXA/) no-repeat; background-size: contain;}
-.ns {background: url(http://instagram.com/p/UlwV7HvPan/) no-repeat; background-size: contain;}
-.tb {background: url(http://instagram.com/p/Te2kkRvPcj/) no-repeat; background-size: contain;}
-.fm {background: url(http://instagram.com/p/THXJn2vPYg/) no-repeat; background-size: contain;}
+.cr {background: url(http://fc01.deviantart.net/fs71/f/2010/225/9/e/Chibi_Sailor_Moon_2_by_blackmoonrose13.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://fc01.deviantart.net/fs71/f/2010/225/9/e/Chibi_Sailor_Moon_2_by_blackmoonrose13.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://http://fc04.deviantart.net/fs10/f/2006/324/f/c/Chibi_Panda_by_rayquazaLv70.jpg) no-repeat; background-size: contain;}
+.ns {background: url(http://motionpicturebarbie.files.wordpress.com/2010/04/bibble.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://th1257.photobucket.com/albums/ii501/HeatherTheHaunter/th_Chibi_turtle_by_blackcattlc.jpg) no-repeat; background-size: contain;}
+.fm {background: url(http://th1257.photobucket.com/albums/ii501/HeatherTheHaunter/th_Chibi_turtle_by_blackcattlc.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
 .reset {
-  box-shadow: 0 0 30px #fff;
+  box-shadow: 0 0 30px #123456789012345678901234567890;
 }
 
 /* The #gameIntro element holds the screen that shows when you start the app */
