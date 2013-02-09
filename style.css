@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://wondersofdisney.disneyfansites.com/clipart/disbabies/mickey/babymickbear3.png) no-repeat; background-size: contain;}
+.fx {background: url(http://s.myniceprofile.com/myspacepic/1122/112288.gif) no-repeat; background-size: contain;}
+.cr {background: url(http://skaterchica123.webs.com/BabyEeyore.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://images2.fanpop.com/images/photos/7800000/Baby-Tigger-and-Piglet-winnie-the-pooh-7889554-423-293.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://i.ebayimg.com/t/DONALD-DUCK-BABIES-Baby-SAILBOAT-Boat-CAST-LANYARD-SERIES-2004-Disney-PIN-/00/s/MjUwWDIyMA==/$%28KGrHqN,!ncE8VOzvn+QBPK,ZTQTrg~~60_35.JPG) no-repeat; background-size: contain;}
+.ns {background: url(http://images2.fanpop.com/images/photos/6200000/Mickey-Mouse-and-Minnie-Mouse-mickey-and-minnie-6224723-325-287.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://images4.fanpop.com/image/photos/24300000/Baby-Perry-perry-the-platypus-24339893-307-234.png) no-repeat; background-size: contain;}
+.fm {background: url(http://motionpicturebarbie.files.wordpress.com/2010/04/bibble.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
